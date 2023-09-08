@@ -1,0 +1,11 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    border: 10px dashed blue;
+    max-width: fit-content;
+}
+img{
+    padding:20px 10px ;
+    width: 100%;
+}
